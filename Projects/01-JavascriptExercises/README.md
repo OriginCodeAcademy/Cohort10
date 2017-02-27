@@ -4,7 +4,7 @@
 
 Enroll for this cohorts Repl classroom and complete the 3 assignments by clicking on the following link.
 
-[https://repl.it/classroom/invite/CKS5N01](https://repl.it/classroom/invite/CKS5N01)
+[https://repl.it/classroom/invite/DZj3YwG](https://repl.it/classroom/invite/DZj3YwG)
 
 If you finish all the assignments before Tuesday, let me know and I can assign more challenges to solve.
 
