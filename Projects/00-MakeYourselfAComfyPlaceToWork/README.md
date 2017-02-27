@@ -105,4 +105,4 @@ So the process would be:
 
 ### Finished?
 
-Please [click here](https://www.github.com/OriginCodeAcademy/Cohort7/issues/new?title=00-MakeYourselfAComfortablePlaceToWork&body=1.%20What%20did%20you%20accomplish%20in%20this%20assignment%3F%0A%0A2.%20What%20outstanding%20tasks%20(if%20any)%20have%20you%20yet%20to%20accomplish%3F) to fill out a prepopulated issue in this repository.
+Please [click here](https://www.github.com/OriginCodeAcademy/Cohort10/issues/new?title=00-MakeYourselfAComfortablePlaceToWork&body=1.%20What%20did%20you%20accomplish%20in%20this%20assignment%3F%0A%0A2.%20What%20outstanding%20tasks%20(if%20any)%20have%20you%20yet%20to%20accomplish%3F) to fill out a prepopulated issue in this repository.

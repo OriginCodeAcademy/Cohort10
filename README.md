@@ -1,11 +1,10 @@
-# Cohort {{number}}
+# Cohort 10
 
 ## Welcome to Origin Code Academy
 
-This repository contains the resources you'll need while taking this course. 
+This repository contains the resources you'll need while taking this course.
 
 New projects will be added daily to the `Projects` folder to be completed by it's given due date. Each project contains a readme file with the requirements for that project, along with materials that you will need to complete it.
-
 
 ## What to do when you get stuck
 
@@ -24,6 +23,7 @@ Let's do this!
 
 Cheers,
 
-##### {{instructorName}}
+##### Cameron Wilby
 
-* Twitter: [@{{twitterHandle}}](https://twitter.com/{{twitterHandle}})
+* Twitter: [@cameronwilby](https://twitter.com/cameronwilby)
+* Blog: [cameronwilby.com](https://www.cameronwilby.com)
