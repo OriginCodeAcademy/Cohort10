@@ -16,6 +16,6 @@ Once you have completed all of the exercises, come back here and create an issue
 - [ ] http://codepen.io/pen?template=WpQgWR
 
 ## Turn in instructions
-* [Click here to create an issue in the class repository](https://www.github.com/OriginCodeAcademy/Cohort10/issues/new?title=03-AstroWeightCalculator&body=1.%20Where%20can%20I%20find%20your%codepens%3F%20(Paste%20a%20link%20below))
+* [Click here to create an issue in the class repository](https://www.github.com/OriginCodeAcademy/Cohort10/issues/new?title=02-CodePen-VanillaJS&body=1.%20Where%20can%20I%20find%20your%20CodePens%3F%20(Copy%20and%20paste%20links%20to%20each%20one))
     * Include a link to your CodePens in the description
     * Answer the questions filled out for you in the description
