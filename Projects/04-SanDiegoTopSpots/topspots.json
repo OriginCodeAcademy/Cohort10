@@ -1,0 +1,121 @@
+[{
+    "name": "Go For A Run In The San Diego Zoo Safari Park",
+    "description": "A half marathon on a trail running through the Safari Park, where animals roam free? Sounds like a barrel of monkeys (or rhinos).",
+    "location": [33.09745, -116.99572]
+}, {
+    "name": "Play Tourist For The Afternoon With A Stroll Around Seaport Village",
+    "description": "It may be a touristy spot with lots of tourist trap shops selling hats and sunglasses, but it’s definitely worth the walk to get great views of the harbor and Coronado, or just to enjoy the breeze.",
+    "location": [32.70922, -117.17007]
+}, {
+    "name": "Get Your Ultimate Geek On At Comic Con In July",
+    "description": "Holy geekfest Batman. Every year, downtown San Diego turns into the biggest PR campaign Hollywood can buy. While it may be big business for Hollywood, it’s even bigger business for all of geek-kind. Comics, movies, collectables, cosplay, contests, it’s all here and so much more. Even if you can’t get a ticket, it’s worth stopping by the free events outside the convention center, and it’s always fun to see the cosplayers in the wild.",
+    "location": [32.70648, -117.16614]
+}, {
+    "name": "Take A Beer Tour At Stone Brewery",
+    "description": "This special behind the scenes tour, lead by an “indoctrination specialist,” takes you behind the curtain of Stone’s diabolically tasty brews—most importantly it comes with free samples! Protip: tickets are first come, first serve and at $3 a pop for a 45-minute tour it’s a popular event, so be sure to get there early.",
+    "location": [33.115875, -117.120022]
+}, {
+    "name": "Grub Like The Localvores Do With Dinner At Café 21",
+    "description": "With two locations (Downtown and North Park) Café 21 serves some delicious locally sourced, ethically raised hippie food. Great for brunch or dinner and whatever you do, get the sangria!",
+    "location": [32.715382, -117.160545]
+}, {
+    "name": "Take A Surf Lesson At Surfari",
+    "description": "Hey there shark bait, want to hit the waves but not sure how? Check out Surfari Surf for lessons, camps, or just a board rental.",
+    "location": [32.783761, -117.252811]
+}, {
+    "name": "Take In The Epic Views At Torrey Pines",
+    "description": "Get up early on a Saturday (for once) and head out to La Jolla for some hiking at Torrey Pines State Reserve. Take the short Guy Fleming Trail for great views of the ocean, or the Broken Hill Trail for a more dramatic view of the hillside.",
+    "location": [32.926988, -117.259269]
+}, {
+    "name": "Get Chills And Thrills With A Ghost Tour Through The Gaslamp",
+    "description": "The historic part of San Diego has a colorful Wild West past. Find out whose spectral remains are still hanging around this former red light district on the Haunted San Diego Tour.",
+    "location": [32.712614, -117.160163]
+}, {
+    "name": "Find Nemo At The Birch Aquarium",
+    "description": "Take in the beauty of California’s coral reefs and kelp forests at this aquarium at the Scripps Institute of Oceanography. Hang around for encounters with leopard sharks, seahorses and to learn about the impact of climate change on underwater environments.",
+    "location": [32.865938, -117.250414]
+}, {
+    "name": "Visit The Mummies At The Museum Of Man",
+    "description": "This anthropology museum may be small but it packs in some fascinating exhibits on early man and even two Egyptian mummies. But the best part of this museum are the exhibits on local native populations.",
+    "location": [32.731771, -117.152293]
+}, {
+    "name": "Pet The Cats At The Adams Avenue Book Store",
+    "description": "This used book store has a wide selection to choose from and two presumably well-read felines roaming the shelves.",
+    "location": [32.763499, -117.117130]
+}, {
+    "name": "Order The Kangaroo At Crazee Burger",
+    "description": "Where else in California are you going to get to eat a burger made of exotic meat like alligator, ostrich, and antelope? Don’t worry meat abstainers, they have conventional and veggie options, too.",
+    "location": [32.750202, -117.129937]
+}, {
+    "name": "Head To Convoy Street For Your Asian Food Fix",
+    "description": "San Diego has quite a large and diverse Asian population, which in San Diego translates to an excellent variety of Asian cuisine. Check out Shabu Shabu House on Convoy Street.",
+    "location": [32.824932, -117.155888]
+}, {
+    "name": "Go For A Dip In The Natural Hot Springs At Agua Caliente",
+    "description": "For just five bucks you could be lounging in warm water goodness provided by the nearby hot springs. The day spa has multiple pools, including one just for the kiddos, and a large campground if you want to stay the night.",
+    "location": [32.951521, -116.305594]
+}, {
+    "name": "Dig For Treasure At Thrift Trader…",
+    "description": "This local thrift store specializes in records, shoes and clothes. Trade in your old duds and go digging for excellent finds tucked away in their many racks.",
+    "location": [32.799316, -117.244245]
+}, {
+    "name": "…Or Go For Luxury Goods At Fashion Valley",
+    "description": "Go where the rich tourists do! Fashion Valley showcases plenty of upscale brands like Hermes, Gucci, and Armani. Even if you can’t afford the price tags, the people watching is priceless.",
+    "location": [32.767874, -117.166531]
+}, {
+    "name": "Spend A Wednesday Afternoon At The OB Farmers Market",
+    "description": "Live music, open-air food venders, llama rides…what’s not to love? Get out of your supermarket rut and sample the local produce at the Ocean Beach Farmers Market.",
+    "location": [32.746271, -117.250631]
+}, {
+    "name": "Take A Dive With House Of Scuba",
+    "description": "In addition to carrying a ton of scuba gear, House of Scuba also offers diving classes for everyone from beginner to professional levels. For the truly adventurous, they have courses on shipwreck diving, night diving, and even deep water diving. Go ahead and unleash your inner Lara Croft.",
+    "location": [32.819280, -117.225294]
+}, {
+    "name": "Rock The Casbah",
+    "description": "This divey venue has been around in one form or another since 1989 and has brought in bands like Nirvana, Joan Jett, MGMT, Death Cab for Cutie, and Weezer. It features live shows at least six nights a week and the cover charges aren’t too bad, around $15 on average.",
+    "location": [32.730278, -117.171850]
+}, {
+    "name": "Got Kids? Get Thee To Legoland",
+    "description": "This amusement park is best for kids 12 and under, and there’s plenty to do and see. The Lego models of American cities like San Francisco and New York are particularly interesting, not to mention their massive exhibit on “Star Wars.”",
+    "location": [33.128048, -117.311518]
+}, {
+    "name": "Peruse Some Page Turners At The New Central Library",
+    "description": "The massive building downtown just opened last fall, so it still has that new library smell. The library not only has an extensive collection of readables but also hosts local art, features a garden courtyard, and offers special classes like how to program Raspberry Pi for future leet haxors.",
+    "location": [32.709029, -117.154239]
+}, {
+    "name": "Here For The Holidays? Check Out “How The Grinch Stole Christmas” At The Old Globe",
+    "description": "Dr. Seuss is kind of a big deal in San Diego, so it’s no big surprise that he’s memorialized all over the city. Every year, the Old Globe Theater puts on “How the Grinch Stole Christmas: The Musical,” which is always a hit with the kids—and kids at heart.",
+    "location": [32.732280, -117.151504]
+}, {
+    "name": "Catch A Concert At The Spreckels Organ Pavilion",
+    "description": "The Spreckels Organ Pavilion was dedicated for the Panama-California Exposition in 1914 and it’s a favorite spot for photographers. Every Sunday, an organist performs a free concert on the 4,530 pipes.",
+    "location": [32.729410, -117.150415]
+}, {
+    "name": "Rent A Bike At Ray’s And Cruise The Boardwalk",
+    "description": "Ten bucks will get you an all-day rental on a beach cruiser at Ray’s Rentals, so have some fun in the sun cruising the Pacific Beach Boardwalk.",
+    "location": [32.782899, -117.252743]
+}, {
+    "name": "Catch A Double Feature At The South Bay Drive-In",
+    "description": "It’s a two-for-one deal at the South Bay Drive-In, one of the few drive-in theaters around. See new releases for $7 on one of three huge screens and enjoy your viewing from the comfort of your car. Or swing by for the swap meet also hosted at the drive-in, every wednesday.",
+    "location": [32.578109, -117.086512]
+}, {
+    "name": "Join In The Ninja Night Race",
+    "description": "This relatively new cycling race takes place at—you guessed it—night. The race begins at the San Diego Velodrome and speeds through Balboa Park. Not for the faint of heart, but then again, being a ninja isn’t either.",
+    "location": [32.731115, -117.138240]
+}, {
+    "name": "Get A Bird’s Eye View Of Black’s Beach",
+    "description": "See the world from above with tandem or solo hang gliding from Torrey Pines Gliderport. Spend about half an hour gliding over the famous nude Black’s Beach, and get amazing views of…ahem…the ocean.",
+    "location": [32.887686, -117.252963]
+}, {
+    "name": "Check Out The Growing Art Scene In Barrio Logan",
+    "description": "Known for being a neighborhood in the industrial part of town, Barrio Logan has grown into an enclave for artists with several new galleries and art spaces opening up. The latest art space, La Bodegan Studios and Gallery, will feature 50 artists in their first exhibition.",
+    "location": [32.692975, -117.136492]
+}, {
+    "name": "Treat Yourself To Extraordinary Desserts—Yum!",
+    "description": "This dessert bar and restaurant in Banker’s Hill is a must for anyone with a major sweet tooth. The gourmet creations here—even the humble lemon bar—are unbeatable.",
+    "location": [32.720263, -117.165970]
+}, {
+    "name": "Brunch It At Hash House A Go Go",
+    "description": "This popular eatery is packed on weekend mornings so get in early for their amazing brunch. A BLT bloody mary, giant pancakes, or bacon waffles tower, anyone?",
+    "location": [32.743886, -117.160621]
+}]
