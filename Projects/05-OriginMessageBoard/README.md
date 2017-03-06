@@ -4,6 +4,8 @@ If you look up at the projector, you should see a browser window that has been l
 
 Your task is to build a website on your machine that sends messages to the website on the projector.
 
+**Note: ** When working from home, you can see the projector app by visiting [https://originmessages.herokuapp.com](https://originmessages.herokuapp.com).
+
 ## Your website should look like this
 ![](http://i.imgur.com/K2yxocg.png)
 
