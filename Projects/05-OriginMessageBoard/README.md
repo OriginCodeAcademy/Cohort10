@@ -4,7 +4,7 @@ If you look up at the projector, you should see a browser window that has been l
 
 Your task is to build a website on your machine that sends messages to the website on the projector.
 
-**Note: ** When working from home, you can see the projector app by visiting [https://originmessages.herokuapp.com](https://originmessages.herokuapp.com).
+**Note:** When working from home, you can see the projector app by visiting [https://originmessages.herokuapp.com](https://originmessages.herokuapp.com).
 
 ## Your website should look like this
 ![](http://i.imgur.com/K2yxocg.png)
@@ -12,8 +12,10 @@ Your task is to build a website on your machine that sends messages to the websi
 ## Your website should post a message to the projector
 The user should be able to enter some text, then once they click the `Send!` button, an HTTP POST request should be made to the API url described below.
 
-## Your code should use `$.post`
-When the user clicks the `Send!` button, you should use [`$.post`](https://api.jquery.com/jquery.post/) to send an object containing data to send to `http://originmessages.herokuapp.com/messages`;
+## Your code should use `$.ajax`
+When the user clicks the `Send!` button, you should use [`$.ajax`](https://api.jquery.com/jquery.ajax/) to send an object containing data to send to `http://originmessages.herokuapp.com/messages`;
+
+**Important:** You will need to set the `contentType` to `application/json` when calling `$.ajax`.
 
 Here is an _example_ snippet of code.
 
@@ -23,9 +25,7 @@ let message = {
   message: 'Looks like somebody is running the sample!'
 };
 
-$.post('http://originmessages.herokuapp.com/messages', message, function(data) {
-  alert('Data sent to server');
-})
+// Write your Ajax code here :)
 ```
 
 ## It should show up on the projector if HTTP POST request was successsful
