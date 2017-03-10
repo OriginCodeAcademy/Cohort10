@@ -43,7 +43,7 @@ This will put `gulp` in your PATH so it can be run from the command line.
 
 ## Add this `gulpfile.js` to your web folder
 ```js
-const gulp = require('gulp');const inject = require('gulp-inject');const wiredep = require('wiredep').stream;const browserSync = require('browser-sync');/* injects the files that you create */gulp.task('inject', function() {	var sources = [										// Define the files we'd like to inject		'./app/**/*.module.js', 						// *.module.js files go first		'./app/**/*.js', 								// *.js files come next		'./app/**/*.css'								// *.css files come next	];    gulp.src('./index.html') 							// Read your index.html        .pipe(inject(sources, { relative: true })) 		// Pipe it through gulp-inject        .pipe(gulp.dest('./')); 						// Write it out to ./});/* injects your bower dependencies */gulp.task('inject:bower', ['inject'], function() {    return gulp.src('./index.html') 					// Read your index.html        .pipe(wiredep()) 								// Pipe it through wiredep        .pipe(gulp.dest('./')); 						// Write it out to ./});/* watches for changes made to your files */gulp.task('watch', function() {    return gulp        .watch('./app/**/*', ['reload']); 				// Watch for any changes in your app folder    													// which will trigger the 'reload' task});/* reloads the browser */gulp.task('reload', function() {    return browserSync.reload(); 						// reloads your app through browser-sync})/* starts a browser-sync server */gulp.task('serve', ['inject:bower', 'watch'], function() {    return browserSync.init({ 							// starts a browser-sync service        server: './' 									// serving the ./ directory    })});
+const gulp = require('gulp');const inject = require('gulp-inject');const wiredep = require('wiredep').stream;const browserSync = require('browser-sync');/* injects the files that you create */gulp.task('inject', ['inject:bower'], function() {	var sources = gulp.src([										// Define the files we'd like to inject		'./app/**/*.module.js', 						// *.module.js files go first		'./app/**/*.js', 								// *.js files come next		'./app/**/*.css'								// *.css files come next	]);    return gulp.src('./index.html') 							// Read your index.html        .pipe(inject(sources, { relative: true })) 		// Pipe it through gulp-inject        .pipe(gulp.dest('./')); 						// Write it out to ./});/* injects your bower dependencies */gulp.task('inject:bower', function() {    return gulp.src('./index.html') 					// Read your index.html        .pipe(wiredep()) 								// Pipe it through wiredep        .pipe(gulp.dest('./')); 						// Write it out to ./});/* watches for changes made to your files */gulp.task('watch', function() {    return gulp        .watch('./app/**/*', ['reload']); 				// Watch for any changes in your app folder    													// which will trigger the 'reload' task});/* reloads the browser */gulp.task('reload', function() {    return browserSync.reload(); 						// reloads your app through browser-sync})/* starts a browser-sync server */gulp.task('serve', ['inject', 'watch'], function() {    return browserSync.init({ 							// starts a browser-sync service        server: './' 									// serving the ./ directory    })});
 ```
 
 ## Override `bootstrap` and `font-awesome` main definitions
@@ -57,20 +57,23 @@ In your `bower.json` file, add the following object between the `ignore` array a
 In your `index.html` file, add the following "hooks", similar to the example file.
 
 ```html
-<html>
+<html ng-app="app">
 
 	<head>
 		<!-- bower:css -->
 		<!-- endbower -->
-	
+
 		<!-- inject:css -->
 		<!-- endinject -->
 	</head>
 
-	<body>
+	<body ng-controller="WhateverController as whateverCtrl">
+
+		<h1>My app</h1>
+
 		<!-- bower:js -->
 		<!-- endbower -->
-		
+
 		<!-- inject:js -->
 		<!-- endinject -->
 	</body>
