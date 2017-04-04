@@ -24,6 +24,9 @@ Angular-Toastr
 ```
 
 ## Pages
+
+![](https://snag.gy/bxRi5V.jpg)
+
 - Dashboard (Optional)
 	- Monthly Revenue
 	- Number of Sales
