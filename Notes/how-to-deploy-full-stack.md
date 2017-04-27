@@ -16,7 +16,7 @@ You will be doing all of this in Windows. No apples for you.
 $ npm install express bower --save
 ```
 
-- [ ] Add a `scripts` section to your `package.json` file as follows
+- [ ] Add a `scripts` section to your `package.json` file as follows. This ensures that Heroku will download your bower packages once code is deployed to the server.
 
 `package.json`<br />
 
@@ -38,7 +38,7 @@ $ npm install express bower --save
 ```
 
 
-- [ ] Add a file called `server.js` to the root of your project folder. This ensures that Heroku will download your bower packages once code is deployed to the server.
+- [ ] Add a file called `server.js` to the root of your project folder. This will spin up a web server that will serve your web assets once deployed to Heroku.
 
 ```js
 // Require modules (similar to Angular Dependency Injection)
