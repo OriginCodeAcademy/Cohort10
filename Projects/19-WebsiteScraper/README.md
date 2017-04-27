@@ -180,4 +180,4 @@ https://www.codementor.io/johnnyb/how-to-write-a-web-scraper-in-nodejs-du108266t
 
 ## Turn in instructions
 - Submit your test to GitHub in a repository called `CT-WebScraper`
-- [Click here to submit an issue](https://www.github.com/OriginCodeAcademy/2016-CW-SpringCohort/issues/new?title=CT-WebScraping&body=1.%20Where%20can%20I%20find%20your%20repository%3F%20(Paste%20the%20url%20of%20your%20repository%20below)%0A%0A2.%20Which%20programming%20language%20did%20you%20use%3F%0A%0A3.%20What%20was%20the%20most%20difficult%20part%20of%20this%20code%20test%3F%0A%0A4.%20What%20feedback%20do%20you%20have%20about%20this%20code%20test%3F))
+- [Click here to submit an issue](https://www.github.com/OriginCodeAcademy/Cohort10/issues/new?title=CT-WebScraping&body=1.%20Where%20can%20I%20find%20your%20repository%3F%20(Paste%20the%20url%20of%20your%20repository%20below))
